@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=#000000&height=220&section=header&text=Let's%20go✨%20I'm%20eunwooring9%20😊&fontColor=d6ace6&fontSize=50&&fontAlignY=38&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=egg&color=000000&height=220&section=header&text=Let's%20go✨%20I'm%20eunwooring9%20😊&fontColor=d6ace6&fontSize=50&&fontAlignY=38&animation=twinkling)
 
 ![eunwooring9's github stats](https://github-readme-stats.vercel.app/api?username=eunwooring9&show_icons=true&theme=default&cache_seconds=1800)
 
-![footer](https://capsule-render.vercel.app/api?type=soft&color=#000000&height=118&section=footer&animation=twinkling)
+![footer](https://capsule-render.vercel.app/api?type=egg&color=000000&height=118&section=footer&animation=twinkling)
 <!--
 **eunwooring9/eunwooring9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
