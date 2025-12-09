@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=000000&height=220&section=header&text=Let's%20go✨%20I'm%20eunwooring9%20😊&fontColor=d6ace6&fontSize=50&&fontAlignY=38&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=egg&color=000000&height=220&section=header&text=Let's%20go✨%20I'm%20eunwooring9%20😊&fontColor=45782b&fontSize=30&&fontAlignY=38&animation=fadein)
 
 ![footer](https://capsule-render.vercel.app/api?type=egg&color=000000&height=118&section=footer&animation=twinkling)
 <!--
