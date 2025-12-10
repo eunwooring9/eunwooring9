@@ -1,10 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hi!%20I'm%20eunwoo%20✨&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=55&height=200" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hi!%20I'm%20eunwoo%20✨&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=52&height=200" width="100%" />
 
 
 #### (전) 게임 프로그래밍 개발자  (현) 웹 프론트엔드 개발자
 
 <h2>😎Projects</h2>
 
+✌🏻 컨텐츠 제작 시 기획과 건축, 인테리어를 담당했으며<br>
+건축이 블록을 쌓아 구조물을 설계하는 작업이므로 컴포넌트 기반 개발과 유사하며, <br>
+미적으로 눈이 편안하고, 즐거워야 하는 부분을 생각하며 늘 제작에 임해왔기 때문에 UX/UI에 신경을 기울렸습니다.<br>
+<br>
+또한, 팀 프로젝트를 수 년간 해왔기 때문에 협업에 있어서 가장 중요한 소통과 책임감이 강한것이 강점입니다.
 <table>
   <tr>
     <td>
@@ -31,6 +36,17 @@
     </td>
   </tr>
 </table>
+<p>
+- 출처 양띵 유튜브
+
+✅ 담당 분야 <br>
+유품정리사 - 건축, 인테리어 <br>
+염라를 찾아서 - 기획, 건축, 시스템 <br>
+color: 레인 - 기획, 건축, 인테리어 <br>
+2021 동물의 숲 - 건축
+  
+</p>
+
 
 
  <h2>🪄Frontend🪄</h2>
