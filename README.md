@@ -1,9 +1,36 @@
-<h1 align="center">Hi, I'm Eunwoo👀</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hi!%20I'm%20eunwoo%20✨&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=55&height=200" width="100%" />
 
-<p>(전) 게임 프로그래밍 개발자 <br>
-  (현) 웹 프론트엔드 개발자
-</p>
 
+#### (전) 게임 프로그래밍 개발자  (현) 웹 프론트엔드 개발자
+
+<h2>😎Projects</h2>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://youtu.be/OCchavCSGaQ">
+        <img src="https://img.youtube.com/vi/OCchavCSGaQ/0.jpg" width="300"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://youtu.be/g3XvuAUdb7E">
+        <img src="https://img.youtube.com/vi/g3XvuAUdb7E/0.jpg" width="300"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://youtu.be/KP3cmJh8dTY">
+        <img src="https://img.youtube.com/vi/KP3cmJh8dTY/0.jpg" width="300"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://youtu.be/kYScokjupig">
+        <img src="https://img.youtube.com/vi/kYScokjupig/0.jpg" width="300"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
  <h2>🪄Frontend🪄</h2>
@@ -19,10 +46,11 @@
 </div>
 
 <br>
+<br>
 ✅ 2025.11.18 ~ 2025.04.07 Frontend Bootcamp 진행중 <br>
 🔥 HTML, CSS 과정은 끝났지만 아직 미숙하여 꾸준히 공부중 <br>
 💻 Javascript, JQuery, TypeScript, React 공부 예정
-<br>
+
 <br>
 <br>
   <h2>🎮Game Progamming🎮</h2>
@@ -35,11 +63,13 @@
         <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
     </div>
     <br>
+  
 ⚠️ 2022 ~ 2023년까지 공부하였고, 현재는 웹 프론트엔드 개발자로 전향
+<br>
 
-
-<h4 align="left">Connect with me:</h4>
-<p align="left">
-<a href="https://instagram.com/eun._.wo0o_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eun._.wo0o_" height="30" width="40" /></a>
-<a href="https://discord.gg/eunuring._0222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="eunuring._0222" height="30" width="40" /></a>
-</p>
+  <h3>Connect with me:</h3>
+      <p align="left">
+      <a href="https://instagram.com/eun._.wo0o_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eun._.wo0o_" height="30" width="40" /></a>
+      <a href="https://discord.gg/eunuring._0222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="eunuring._0222" height="30" width="40" /></a>
+      </p>
+  
