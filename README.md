@@ -20,7 +20,7 @@
 
 <br>
 ✅ 2025.11.18 ~ 2025.04.07 Frontend Bootcamp 진행중 <br>
-🔥 HTML, CSS 과정은 끝나지만 아직 미숙하여 꾸준히 공부중 <br>
+🔥 HTML, CSS 과정은 끝났지만 아직 미숙하여 꾸준히 공부중 <br>
 💻 Javascript, JQuery, TypeScript, React 공부 예정
 <br>
 <br>
@@ -35,7 +35,7 @@
         <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
     </div>
     <br>
-⚠️ 2022 ~ 2023년까지 공부하였고, 현재는 프론트엔드 개발자로 전향
+⚠️ 2022 ~ 2023년까지 공부하였고, 현재는 웹 프론트엔드 개발자로 전향
 
 
 <h4 align="left">Connect with me:</h4>
