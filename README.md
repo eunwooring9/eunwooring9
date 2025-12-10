@@ -2,7 +2,7 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=egg&color=000000&height=118&section=footer&animation=twinkling)
 
-<!--everyday
+<!--hmmm.....
 **eunwooring9/eunwooring9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
