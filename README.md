@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=000000&height=220&section=header&text=Let's%20go%20eunwooring9%20🐍&fontColor=45782b&fontSize=30&&fontAlignY=38&animation=fadein)
+![header](https://capsule-render.vercel.app/api?type=egg&color=000000&height=220&section=header&text=Let's%20go%20eunwooring9%20✨🐍&fontColor=45782b&fontSize=30&&fontAlignY=38&animation=fadein)
 
 ![footer](https://capsule-render.vercel.app/api?type=egg&color=000000&height=118&section=footer&animation=twinkling)
 
-<!--hello?
+<!--
 **eunwooring9/eunwooring9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
