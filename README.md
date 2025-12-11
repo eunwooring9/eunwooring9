@@ -4,48 +4,42 @@
 #### (전) 게임 프로그래밍 개발자  (현) 웹 프론트엔드 개발자
 
 <h2>😎Projects</h2>
-
-✌🏻 컨텐츠 제작 시 기획과 건축, 인테리어를 담당했으며<br>
-건축이 블록을 쌓아 구조물을 설계하는 작업이므로 컴포넌트 기반 개발과 유사하며, <br>
-미적으로 눈이 편안하고, 즐거워야 하는 부분을 생각하며 늘 제작에 임해왔기 때문에 UX/UI에 신경을 기울렸습니다.<br>
-<br>
-또한, 팀 프로젝트를 수 년간 해왔기 때문에 협업에 있어서 가장 중요한 소통과 책임감이 강한것이 강점입니다.
-<table>
-  <tr>
-    <td>
-      <a href="https://youtu.be/OCchavCSGaQ">
-        <img src="https://img.youtube.com/vi/OCchavCSGaQ/0.jpg" width="300"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://youtu.be/g3XvuAUdb7E">
-        <img src="https://img.youtube.com/vi/g3XvuAUdb7E/0.jpg" width="300"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://youtu.be/KP3cmJh8dTY">
-        <img src="https://img.youtube.com/vi/KP3cmJh8dTY/0.jpg" width="300"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://youtu.be/kYScokjupig">
-        <img src="https://img.youtube.com/vi/kYScokjupig/0.jpg" width="300"/>
-      </a>
-    </td>
-  </tr>
-</table>
-<p>
-- 출처 양띵 유튜브
-
-✅ 담당 분야 <br>
-유품정리사 - 건축, 인테리어 <br>
-염라를 찾아서 - 기획, 건축, 시스템 <br>
-color: 레인 - 기획, 건축, 인테리어 <br>
-2021 동물의 숲 - 건축
   
-</p>
+🤝 저는 콘텐츠 제작 과정에서 기획, 건축, 시스템을 담당했습니다. <br>
+건축은 블록 단위로 구조물을 설계하는 작업으로, 컴포넌트 단위로 화면을 구성하는 프론트엔드 개발 방식과 매우 유사하며, <br>
+플레이어가 어떻게 반응하는지, 얼마나 오래 즐길 수 있는지를 고려하면서 콘텐츠를 구성해왔기 때문에 <br> 자연스럽게 UX·UI 중심의 사고방식을 갖추게 되었습니다.
+<br>
+또한, 수년간 팀 단위 프로젝트를 진행하며 소통과 책임감의 중요성을 체득하였고, <br>
+이러한 경험들이 쌓여 현재 프론트엔드 개발 환경에서 제 강점으로 작용하고 있습니다. <br>
+<br>
+      <a href="https://youtu.be/OCchavCSGaQ">
+        <img src="https://img.youtube.com/vi/OCchavCSGaQ/0.jpg" width="220"/>
+      </a>
+      <a href="https://youtu.be/g3XvuAUdb7E">
+        <img src="https://img.youtube.com/vi/g3XvuAUdb7E/0.jpg" width="220"/>
+      </a>
+      <a href="https://youtu.be/KP3cmJh8dTY">
+        <img src="https://img.youtube.com/vi/KP3cmJh8dTY/0.jpg" width="220"/>
+      </a>
+      <a href="https://youtu.be/kYScokjupig">
+        <img src="https://img.youtube.com/vi/kYScokjupig/0.jpg" width="220"/>
+      </a>
+- 출처 양띵 유튜브 <br>
+
+<h3> ✅ 담당 분야 및 작업 설명 </h3>
+
+유품정리사 (건축, 인테리어) <br>
+• 스토리텔링을 중심으로, 콘셉트에 맞는 구조·동선·조형을 설계하여 완성도 높은 경험을 제공한 프로젝트
+
+염라를 찾아서 (기획, 건축, 시스템 설계) <br>
+• 웅장한 분위기의 월드 구조부터 콘텐츠 흐름, 시스템까지 총괄하며 수행한 프로젝트
+
+Color: 레인 (건축, 인테리어) <br>
+• 색감·무드 기반의 감성적인 환경을 구축하기 위해 건축 디테일을 신경쓴 작업
+
+2021 동물의 숲 (건축) <br>
+• 구조 디자인과 시각적 통일성이 핵심이었던 작업
+  
 
 
 
