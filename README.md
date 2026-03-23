@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hi!%20I'm%20eunwoo%20✨&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=52&height=200" width="100%" />
 
 
-<h2 align="center"> (전) 게임 프로그래밍 개발자 / (현) 웹 프론트엔드 개발자 지망생 </h2>
+<h2 align="center"> 웹 프론트엔드 개발자</h2>
 
 
 
