@@ -84,8 +84,7 @@ Color: 레인 (건축, 인테리어) <br>
 <p align="center">
   <div align="center">
 - 2025.11.18 ~ 2025.04.07 Frontend Bootcamp 진행중 <br>
-- HTML, CSS 과정은 끝났지만 아직 미숙하여 꾸준히 공부중 <br>
-- Javascript, JQuery, TypeScript, React 공부 예정
+- HTML/CSS, JavaScript, React
   </div>
 </p>
 
